@@ -189,3 +189,53 @@ main {
 .skill_3 {
   background: rgba(255, 223, 0, 0.05);
 }
+
+/* Next target css */
+
+.next_target {
+  margin: 110px 0px;
+}
+.section_heading h2 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 32px;
+  font-weight: 800;
+  line-height: 37px;
+  text-align: center;
+}
+.section_heading p {
+  margin: 24px 0px 48px;
+}
+.next_target_skills {
+  display: flex;
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.15);
+  border-radius: 16px;
+  padding: 40px;
+  background: rgb(255, 255, 255);
+  margin-bottom: 24px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  gap: 24px;
+}
+.n_skills_content h2 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 36px;
+  text-align: left;
+}
+.n_skills_content p {
+  text-align: left;
+  margin: 8px 0px 24px;
+}
+
+.n_skills_content a {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19px;
+  text-align: left;
+  text-decoration-line: underline;
+}
