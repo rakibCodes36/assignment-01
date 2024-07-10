@@ -25,6 +25,18 @@ p {
   justify-content: space-between;
   margin: 50px 150px 50px;
 }
+.logo_area h2 {
+  margin-top: 10px;
+}
+.logo_area h2 a {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 28px;
+  font-weight: 800;
+  line-height: 33px;
+  text-decoration: none;
+  text-align: left;
+}
 .hero_section {
   background-image: url("./assets/Hero-bg.png");
   height: 652px;
@@ -60,7 +72,15 @@ p {
 .btn_contact:hover {
   background: rgba(13, 19, 33, 0.9);
 }
-.btn-resume {
+
+a.btn-resume {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 23px;
+  text-decoration: none;
+  text-align: center;
   box-sizing: border-box;
   border: 1px solid rgb(13, 19, 33);
   border-radius: 8px;
@@ -68,7 +88,9 @@ p {
   opacity: 0.8;
   cursor: pointer;
 }
-
+.btn-resume:hover {
+  background: rgba(13, 19, 33, 0.1);
+}
 /* main area css */
 main {
   width: 1140px;
@@ -132,7 +154,7 @@ main {
 }
 
 /* video css */
-.section_heading {
+.inspiration .section_heading {
   margin-top: 88px;
 }
 .video {
