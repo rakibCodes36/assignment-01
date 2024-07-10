@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap");
+
+/* global-css */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Azeret Mono", monospace;
+}
+p {
+  color: rgb(13, 19, 33);
+  font-family: "Azeret Mono", monospace;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: center;
+  opacity: 0.7;
+}
