@@ -130,3 +130,20 @@ main {
   text-align: left;
   margin: 16px 0px 32px;
 }
+
+/* video css */
+.section_heading {
+  margin-top: 88px;
+}
+.video {
+  text-align: center;
+  margin-bottom: 150px;
+  padding: 32px;
+  box-sizing: border-box;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(13, 19, 33, 0.2);
+  border-radius: 16px;
+}
+.video iframe {
+  border-radius: 16px;
+}
