@@ -1,7 +1,7 @@
 # Rakibul.H - Web Developer Portfolio
 
 ## Project Overview
-This is a personal portfolio website for Rakibul Hasan, a web developer passionate about coding and creating innovative web solutions. The project showcases his skills, inspirations, current learning goals, and future aspirations.
+This is a personal portfolio website for Rakibul Hasan, a web developer passionate about coding and creating innovative web solutions. The project showcases my skills, inspirations, current learning goals, and future aspirations.
 
 ## Live Project
 https://rakibcodes36.github.io/assignment-01/
